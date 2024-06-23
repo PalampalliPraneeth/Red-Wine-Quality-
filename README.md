@@ -2,14 +2,6 @@
 
 This project analyzes the quality of red wine using various machine learning models, including linear regression, polynomial regression, decision trees, and random forests. The analysis uses the red wine quality dataset, exploring relationships between chemical properties and wine quality ratings.
 
-## Table of Contents
-- [Introduction]
-- [Prerequisites]
-- [Installation]
-- [Usage]
-- [Project Steps]
-- [License]
-
 ## Introduction
 
 The goal of this project is to predict the quality of red wine based on its chemical properties. The dataset used for this project is the "Wine Quality" dataset, which contains various physicochemical properties of red wine along with quality ratings.
